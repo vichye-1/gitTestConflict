@@ -51,9 +51,7 @@
 		EF9C0FA62CB4F6A400303BD1 /* gitTest */ = {
 			isa = PBXGroup;
 			children = (
-				EF9C0FA72CB4F6A400303BD1 /* gitTestApp.swift */,
-				EF9C0FA92CB4F6A400303BD1 /* ContentView.swift */,
-				EF9C0FAB2CB4F6A600303BD1 /* Assets.xcassets */,
+				EF9C0FB52CB4F89D00303BD1 /* kk */,
 				EF9C0FAD2CB4F6A600303BD1 /* Preview Content */,
 			);
 			path = gitTest;
@@ -65,6 +63,16 @@
 				EF9C0FAE2CB4F6A600303BD1 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		EF9C0FB52CB4F89D00303BD1 /* kk */ = {
+			isa = PBXGroup;
+			children = (
+				EF9C0FA72CB4F6A400303BD1 /* gitTestApp.swift */,
+				EF9C0FA92CB4F6A400303BD1 /* ContentView.swift */,
+				EF9C0FAB2CB4F6A600303BD1 /* Assets.xcassets */,
+			);
+			path = kk;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
